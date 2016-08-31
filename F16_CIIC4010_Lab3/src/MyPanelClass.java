@@ -64,7 +64,7 @@
 	                        p5.addPoint(x1+11, y1+60);
 	                        g.setColor(Color.WHITE);
 	                        g.fillPolygon(p5);
-	                        // Another rectangle White
+	                        // Another  rectangle White
 	                        Polygon p6 = new Polygon();
 	                        p6.addPoint(x1+11, y1+120);
 	                        p6.addPoint(x1+209, y1+120);
